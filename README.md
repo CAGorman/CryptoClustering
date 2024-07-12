@@ -53,9 +53,16 @@ The following steps were completed in this challenge:
     Answer the following question:
       What is the impact of using fewer features to cluster the data using K-Means?
 
-## Conclusions
-    Both scaled and PCA data use the same amount of clusters in this case. However, the PCA data demonstrates higher inertia values and fewer           components. This implies the effectiveness of dimensionality reduction. Visually- the PCA data are more clearly separated. This can make the data more easily interpreted, where each cluster has more unique characteristics providing less room for error in the analysis.
+## Findings & Conclusions
+    Both scaled and PCA data use the same amount of clusters in this case. However, the PCA data demonstrates higher inertia values and fewer components. This implies the effectiveness of dimensionality reduction. Visually- the PCA data are more clearly separated. This can make the data more easily interpreted, where each cluster has more unique characteristics providing less room for error in the analysis.
 
 ## Resources and Tech Stack
-crypto_market_data.csv found in the resources folder
+crypto_market_data.csv found in the Resources folder
+
+This project utilized the following:
+    - python language
+    - jupyter notebook
+    - pandas
+    - hvplot
+    - sklearn
 
