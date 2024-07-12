@@ -60,9 +60,9 @@ The following steps were completed in this challenge:
 crypto_market_data.csv found in the Resources folder
 
 This project utilized the following:
-    - python language
-    - jupyter notebook
-    - pandas
-    - hvplot
-    - sklearn
+    python language, 
+    jupyter notebook, 
+    pandas, 
+    hvplot, 
+    sklearn
 
